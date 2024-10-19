@@ -1,0 +1,6 @@
+@TwoApi_HostAddress = http://localhost:5047
+
+GET {{TwoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
